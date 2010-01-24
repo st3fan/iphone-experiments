@@ -1,0 +1,147 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Flicker */ = {
+		activeExec = 0;
+		executables = (
+			F844A92F110C0002006C2515 /* Flicker */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FlickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {766, 491}}";
+			sepNavSelRange = "{118, 0}";
+			sepNavVisRange = "{0, 235}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FlickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 491}}";
+			sepNavSelRange = "{355, 0}";
+			sepNavVisRange = "{0, 530}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F844A92F110C0002006C2515 /* Flicker */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Flicker */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Flicker */,
+		);
+		codeSenseManager = F844A941110C0003006C2515 /* Code sense */;
+		executables = (
+			F844A92F110C0002006C2515 /* Flicker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 285999106;
+			PBXWorkspaceStateSaveDate = 285999106;
+		};
+		perUserProjectItems = {
+			F844A953110C01F7006C2515 /* PBXBookmark */ = F844A953110C01F7006C2515 /* PBXBookmark */;
+			F844A954110C01F7006C2515 /* PBXTextBookmark */ = F844A954110C01F7006C2515 /* PBXTextBookmark */;
+			F844A969110C0225006C2515 /* PBXTextBookmark */ = F844A969110C0225006C2515 /* PBXTextBookmark */;
+			F844A96E110C023A006C2515 /* PBXTextBookmark */ = F844A96E110C023A006C2515 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F844A940110C0003006C2515 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F844A92F110C0002006C2515 /* Flicker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Flicker;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F844A940110C0003006C2515 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F844A941110C0003006C2515 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F844A953110C01F7006C2515 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F844A944110C00E9006C2515 /* wallpaper.jpg */;
+	};
+	F844A954110C01F7006C2515 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FlickerViewController.h */;
+		name = "FlickerViewController.h: 6";
+		rLen = 0;
+		rLoc = 118;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	F844A969110C0225006C2515 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FlickerViewController.m */;
+		name = "FlickerViewController.m: 18";
+		rLen = 0;
+		rLoc = 352;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 0;
+	};
+	F844A96E110C023A006C2515 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FlickerViewController.m */;
+		name = "FlickerViewController.m: 18";
+		rLen = 0;
+		rLoc = 355;
+		rType = 0;
+		vrLen = 530;
+		vrLoc = 0;
+	};
+}
