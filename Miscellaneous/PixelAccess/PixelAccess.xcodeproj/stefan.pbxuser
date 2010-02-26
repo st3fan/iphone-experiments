@@ -1,0 +1,168 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PixelAccess */ = {
+		activeExec = 0;
+		executables = (
+			F815271111385733000D0466 /* PixelAccess */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PixelAccessViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 893}}";
+			sepNavSelRange = "{136, 0}";
+			sepNavVisRange = "{0, 226}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PixelAccessViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 1053}}";
+			sepNavSelRange = "{353, 0}";
+			sepNavVisRange = "{0, 1655}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F815271111385733000D0466 /* PixelAccess */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PixelAccess */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PixelAccess */,
+		);
+		codeSenseManager = F815272311385736000D0466 /* Code sense */;
+		executables = (
+			F815271111385733000D0466 /* PixelAccess */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					726,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288905011;
+			PBXWorkspaceStateSaveDate = 288905011;
+		};
+		perUserProjectItems = {
+			F815273211385831000D0466 /* PBXBookmark */ = F815273211385831000D0466 /* PBXBookmark */;
+			F815275011385894000D0466 /* PBXTextBookmark */ = F815275011385894000D0466 /* PBXTextBookmark */;
+			F815275211385894000D0466 /* PBXTextBookmark */ = F815275211385894000D0466 /* PBXTextBookmark */;
+			F815275311385894000D0466 /* PBXTextBookmark */ = F815275311385894000D0466 /* PBXTextBookmark */;
+			F8152756113858A5000D0466 /* PBXTextBookmark */ = F8152756113858A5000D0466 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F815272211385736000D0466 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F815271111385733000D0466 /* PixelAccess */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PixelAccess;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F815272211385736000D0466 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F815272311385736000D0466 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F815273211385831000D0466 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F815272411385741000D0466 /* DutchFlag.png */;
+	};
+	F815275011385894000D0466 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F815275111385894000D0466 /* PixelAccessViewController.mm */;
+		name = "PixelAccessViewController.mm: 13";
+		rLen = 0;
+		rLoc = 237;
+		rType = 0;
+		vrLen = 1673;
+		vrLoc = 221;
+	};
+	F815275111385894000D0466 /* PixelAccessViewController.mm */ = {
+		isa = PBXFileReference;
+		name = PixelAccessViewController.mm;
+		path = /Users/stefan/Desktop/PixelAccess/Classes/PixelAccessViewController.mm;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1233, 1027}}";
+			sepNavSelRange = "{1502, 0}";
+			sepNavVisRange = "{1248, 384}";
+		};
+	};
+	F815275211385894000D0466 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PixelAccessViewController.h */;
+		name = "PixelAccessViewController.h: 8";
+		rLen = 0;
+		rLoc = 136;
+		rType = 0;
+		vrLen = 226;
+		vrLoc = 0;
+	};
+	F815275311385894000D0466 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PixelAccessViewController.m */;
+		name = "PixelAccessViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1655;
+		vrLoc = 0;
+	};
+	F8152756113858A5000D0466 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PixelAccessViewController.m */;
+		name = "PixelAccessViewController.m: 19";
+		rLen = 0;
+		rLoc = 353;
+		rType = 0;
+		vrLen = 1655;
+		vrLoc = 0;
+	};
+}
