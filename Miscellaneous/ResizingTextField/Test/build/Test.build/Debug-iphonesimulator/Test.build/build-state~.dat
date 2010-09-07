@@ -1,0 +1,256 @@
+TTest
+v7
+r0
+t305586427.748359
+cCheck dependencies
+cProcessInfoPlistFile /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Info.plist Test-Info.plist
+cCompileXIB /Users/stefan/Desktop/ResizingTextField/Test/MainWindow.xib
+cCompileXIB /Users/stefan/Desktop/ResizingTextField/Test/TestViewController.xib
+cProcessPCH /var/folders/q-/q-6xyh7KEDCVx4dqBbrLRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-cxtsapkcpuzdatakaaxgnwkvkcdm/Test_Prefix.pch.gch Test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/main.o /Users/stefan/Desktop/ResizingTextField/Test/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TestAppDelegate.o /Users/stefan/Desktop/ResizingTextField/Test/Classes/TestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TestViewController.o /Users/stefan/Desktop/ResizingTextField/Test/Classes/TestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test normal i386
+cGenerateDSYMFile /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app.dSYM /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test
+cTouch /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C598DB50000000000000132
+t1280937397
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/stefan/Desktop/ResizingTextField/Test/Classes/TestAppDelegate.h
+c000000004C86A97600000000000001CF
+t1283893622
+s463
+i<UIKit/UIKit.h>
+
+N/Users/stefan/Desktop/ResizingTextField/Test/Classes/TestAppDelegate.m
+c000000004C86A9760000000000000A7E
+t1283893622
+s2686
+i"TestAppDelegate.h"
+i"TestViewController.h"
+
+N/Users/stefan/Desktop/ResizingTextField/Test/Classes/TestViewController.h
+c000000004C86A97600000000000000E7
+t1283893622
+s231
+i<UIKit/UIKit.h>
+
+N/Users/stefan/Desktop/ResizingTextField/Test/Classes/TestViewController.m
+c000000004C86A97600000000000005AF
+t1283893622
+s1455
+i"TestViewController.h"
+
+N/Users/stefan/Desktop/ResizingTextField/Test/MainWindow.xib
+c000000004C86A9760000000000004E05
+t1283893622
+s19973
+
+N/Users/stefan/Desktop/ResizingTextField/Test/TestViewController.xib
+c000000004C86A9760000000000001A39
+t1283893622
+s6713
+
+N/Users/stefan/Desktop/ResizingTextField/Test/Test_Prefix.pch
+c000000004C86A97600000000000000B1
+t1283893622
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app
+t1283893627
+s238
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app.dSYM
+t1283893627
+s102
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Info.plist
+t1283893625
+s579
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/MainWindow.nib
+t1283893626
+s1117
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/PkgInfo
+t1283893625
+s8
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test
+t1283893627
+s16948
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/TestViewController.nib
+t1283893626
+s795
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Test.LinkFileList
+c000000004C86A9790000000000000187
+t1283893625
+s391
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TestAppDelegate.o
+t1283893627
+s47572
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TestViewController.o
+t1283893627
+s34344
+
+N/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/main.o
+t1283893627
+s6316
+
+N/Users/stefan/Desktop/ResizingTextField/Test/main.m
+c000000004C86A9760000000000000168
+t1283893622
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/q-/q-6xyh7KEDCVx4dqBbrLRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-cxtsapkcpuzdatakaaxgnwkvkcdm/Test_Prefix.pch.gch
+t1283893626
+s15232016
+
+NTest-Info.plist
+c000000004C86A976000000000000038D
+t1283893622
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305586425#305586425#0(0"0(0#1#0"8608698112#0"0#
+
+CCompileC build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TestAppDelegate.o /Users/stefan/Desktop/ResizingTextField/Test/Classes/TestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305586427.500546
+e305586427.599071
+r1
+xCompileC
+xbuild/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TestAppDelegate.o
+x/Users/stefan/Desktop/ResizingTextField/Test/Classes/TestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/stefan/Desktop/ResizingTextField/Test/Classes/TestAppDelegate.m305586427#305586427#0(0"0(0#0#70"/Users/stefan/Desktop/ResizingTextField/Test/Classes/TestAppDelegate.m8605443488#1937"    cd /Users/stefan/Desktop/ResizingTextField/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-generated-files.hmap -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-own-target-headers.hmap -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-all-target-headers.hmap -iquote /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-project-headers.hmap -F/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator -I/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/include -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/DerivedSources/i386 -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/DerivedSources -include /var/folders/q-/q-6xyh7KEDCVx4dqBbrLRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-cxtsapkcpuzdatakaaxgnwkvkcdm/Test_Prefix.pch -c /Users/stefan/Desktop/ResizingTextField/Test/Classes/TestAppDelegate.m -o /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TestAppDelegate.o0#
+
+CCompileC build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TestViewController.o /Users/stefan/Desktop/ResizingTextField/Test/Classes/TestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305586427.574137
+e305586427.642170
+r1
+xCompileC
+xbuild/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TestViewController.o
+x/Users/stefan/Desktop/ResizingTextField/Test/Classes/TestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/stefan/Desktop/ResizingTextField/Test/Classes/TestViewController.m305586427#305586427#0(0"0(0#0#73"/Users/stefan/Desktop/ResizingTextField/Test/Classes/TestViewController.m8603890208#1943"    cd /Users/stefan/Desktop/ResizingTextField/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-generated-files.hmap -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-own-target-headers.hmap -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-all-target-headers.hmap -iquote /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-project-headers.hmap -F/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator -I/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/include -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/DerivedSources/i386 -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/DerivedSources -include /var/folders/q-/q-6xyh7KEDCVx4dqBbrLRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-cxtsapkcpuzdatakaaxgnwkvkcdm/Test_Prefix.pch -c /Users/stefan/Desktop/ResizingTextField/Test/Classes/TestViewController.m -o /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/TestViewController.o0#
+
+CCompileC build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/main.o /Users/stefan/Desktop/ResizingTextField/Test/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305586427.499398
+e305586427.574025
+r1
+xCompileC
+xbuild/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/main.o
+x/Users/stefan/Desktop/ResizingTextField/Test/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/stefan/Desktop/ResizingTextField/Test/main.m305586427#305586427#0(0"0(0#0#51"/Users/stefan/Desktop/ResizingTextField/Test/main.m8607226240#1907"    cd /Users/stefan/Desktop/ResizingTextField/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-generated-files.hmap -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-own-target-headers.hmap -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-all-target-headers.hmap -iquote /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-project-headers.hmap -F/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator -I/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/include -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/DerivedSources/i386 -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/DerivedSources -include /var/folders/q-/q-6xyh7KEDCVx4dqBbrLRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-cxtsapkcpuzdatakaaxgnwkvkcdm/Test_Prefix.pch -c /Users/stefan/Desktop/ResizingTextField/Test/main.m -o /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/stefan/Desktop/ResizingTextField/Test/MainWindow.xib
+s305586425.515644
+e305586426.119411
+r1
+xCompileXIB
+x/Users/stefan/Desktop/ResizingTextField/Test/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib305586425#305586426#0(0"0(0#0#59"/Users/stefan/Desktop/ResizingTextField/Test/MainWindow.xib8600608608#585"    cd /Users/stefan/Desktop/ResizingTextField/Test    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/MainWindow.nib /Users/stefan/Desktop/ResizingTextField/Test/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/stefan/Desktop/ResizingTextField/Test/TestViewController.xib
+s305586425.518123
+e305586426.119576
+r1
+xCompileXIB
+x/Users/stefan/Desktop/ResizingTextField/Test/TestViewController.xib
+lSLF07#2@33"CompileXIB TestViewController.xib305586425#305586426#0(0"0(0#0#67"/Users/stefan/Desktop/ResizingTextField/Test/TestViewController.xib8605285056#601"    cd /Users/stefan/Desktop/ResizingTextField/Test    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/TestViewController.nib /Users/stefan/Desktop/ResizingTextField/Test/TestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app.dSYM /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test
+s305586427.712925
+e305586427.743419
+r1
+xGenerateDSYMFile
+x/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app.dSYM
+x/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Test.app.dSYM build/Debug-iphonesimulator/Test.app/Test305586427#305586427#0(0"0(0#0#86"/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test8610158592#392"    cd /Users/stefan/Desktop/ResizingTextField/Test    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test -o /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app.dSYM0#
+
+CLd /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test normal i386
+s305586427.642269
+e305586427.712818
+r1
+xLd
+x/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test
+xnormal
+xi386
+lSLF07#2@91"Link /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test305586427#305586427#0(0"0(0#0#0"8604401728#915"    cd /Users/stefan/Desktop/ResizingTextField/Test    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator -F/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator -filelist /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Objects-normal/i386/Test.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Test0#
+
+CProcessInfoPlistFile /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Info.plist Test-Info.plist
+s305586425.511251
+e305586425.515548
+r1
+xProcessInfoPlistFile
+x/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Info.plist
+xTest-Info.plist
+lSLF07#2@23"Process Test-Info.plist305586425#305586425#0(0"0(0#0#60"/Users/stefan/Desktop/ResizingTextField/Test/Test-Info.plist8626762240#488"    cd /Users/stefan/Desktop/ResizingTextField/Test    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Test-Info.plist -genpkginfo /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app/Info.plist0#
+
+CProcessPCH /var/folders/q-/q-6xyh7KEDCVx4dqBbrLRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-cxtsapkcpuzdatakaaxgnwkvkcdm/Test_Prefix.pch.gch Test_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305586426.119681
+e305586427.499173
+r1
+xProcessPCH
+x/var/folders/q-/q-6xyh7KEDCVx4dqBbrLRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-cxtsapkcpuzdatakaaxgnwkvkcdm/Test_Prefix.pch.gch
+xTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Test_Prefix.pch305586426#305586427#0(0"0(0#0#60"/Users/stefan/Desktop/ResizingTextField/Test/Test_Prefix.pch8604797536#1796"    cd /Users/stefan/Desktop/ResizingTextField/Test    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-generated-files.hmap -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-own-target-headers.hmap -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-all-target-headers.hmap -iquote /Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/Test-project-headers.hmap -F/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator -I/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/include -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/DerivedSources/i386 -I/Users/stefan/Desktop/ResizingTextField/Test/build/Test.build/Debug-iphonesimulator/Test.build/DerivedSources -c /Users/stefan/Desktop/ResizingTextField/Test/Test_Prefix.pch -o /var/folders/q-/q-6xyh7KEDCVx4dqBbrLRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Test_Prefix-cxtsapkcpuzdatakaaxgnwkvkcdm/Test_Prefix.pch.gch0#
+
+CTouch /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app
+s305586427.743515
+e305586427.748313
+r1
+xTouch
+x/Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app
+lSLF07#2@87"Touch /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app305586427#305586427#0(0"0(0#0#0"8607173568#287"    cd /Users/stefan/Desktop/ResizingTextField/Test    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/stefan/Desktop/ResizingTextField/Test/build/Debug-iphonesimulator/Test.app0#
+
